@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=checkDetect
+comment1.params=b\ wPieces\ bPieces\ wK\ bK
+comment1.target=checkDetect(board,\ java.util.LinkedList,\ java.util.LinkedList,\ King,\ King)
+comment2.params=
+comment2.target=void\ upd()
+comment3.params=s\ color
+comment3.target=java.util.List\ getThreats(Square,\ boolean)
+comment4.params=
+comment4.target=boolean\ blackChecked()
+comment5.params=
+comment5.target=boolean\ whiteChecked()
+comment6.params=cur\ moveTo
+comment6.target=boolean\ testMove(Piece,\ Square)
+comment7.params=k
+comment7.target=boolean\ isStalemate(King)
+comment8.params=k
+comment8.target=boolean\ isMated(King)
+numComments=9

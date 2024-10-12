@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bishop
+comment1.params=curSquare\ color\ img
+comment1.target=Bishop(Square,\ boolean,\ java.lang.String)
+comment2.params=b
+comment2.target=java.util.LinkedHashSet\ getLegalMoves(board)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=King
+comment1.params=curSquare\ color\ img\ b
+comment1.target=King(Square,\ boolean,\ java.lang.String,\ board)
+comment2.params=end
+comment2.target=boolean\ move(Square)
+comment3.params=ro\ b
+comment3.target=boolean\ canCastle(Rook,\ board)
+comment4.params=b
+comment4.target=java.util.LinkedHashSet\ getLegalMoves(board)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

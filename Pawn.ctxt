@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pawn
+comment1.params=curSquare\ color\ img
+comment1.target=Pawn(Square,\ boolean,\ java.lang.String)
+comment2.params=b
+comment2.target=void\ setPassant(boolean)
+comment3.params=
+comment3.target=boolean\ getPassant()
+comment4.params=
+comment4.target=Square\ getPassantSquare()
+comment5.params=s
+comment5.target=void\ setPassantSquare(Square)
+comment6.params=end
+comment6.target=boolean\ move(Square)
+comment7.params=b
+comment7.target=java.util.LinkedHashSet\ getLegalMoves(board)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

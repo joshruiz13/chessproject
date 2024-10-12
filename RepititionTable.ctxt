@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RepititionTable
+comment1.params=
+comment1.target=RepititionTable()
+comment2.params=l
+comment2.target=boolean\ add(long)
+numComments=3

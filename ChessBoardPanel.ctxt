@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ChessBoardPanel
+comment1.params=chessBoard\ a
+comment1.target=ChessBoardPanel(board,\ int)
+comment2.params=
+comment2.target=void\ endGame()
+comment3.params=
+comment3.target=int\ sqSize()
+comment4.params=g\ row\ col
+comment4.target=void\ drawSquare(java.awt.Graphics,\ int,\ int)
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment6.params=g\ piece\ x\ y\ drag
+comment6.target=void\ drawPiece(java.awt.Graphics,\ Piece,\ int,\ int,\ boolean)
+comment7.params=message
+comment7.target=void\ declareWinner(java.lang.String)
+comment8.params=
+comment8.target=void\ refresh()
+numComments=9

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Rook
+comment1.params=curSquare\ color\ img
+comment1.target=Rook(Square,\ boolean,\ java.lang.String)
+comment2.params=end
+comment2.target=boolean\ move(Square)
+comment3.params=b
+comment3.target=java.util.LinkedHashSet\ getLegalMoves(board)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
